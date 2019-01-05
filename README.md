@@ -15,19 +15,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-
-## Ilyas JABAR
-
-![full-logo](https://user-images.githubusercontent.com/44152758/47159355-98574500-d2e5-11e8-8de7-cd84e3bc445a.jpg)
-
-
-## Logo
-![logo](https://user-images.githubusercontent.com/44152758/47964638-c900e380-e034-11e8-8ec4-b2b793ff69fc.png)
-
-
 ## Screenshots
 
 ![2018-11-04](https://user-images.githubusercontent.com/44152758/47964477-a968bb80-e032-11e8-9126-2fb35b26309e.png)
